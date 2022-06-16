@@ -25,5 +25,6 @@ let timer_id = setInterval(() => {
 <template>
     <div class="h-full w-full px-8 pt-8 sm:px-12 sm:pt-12 lg:px-16 lg:pt-16">
         <Typing text="About Me" class="mb-8 block text-2xl sm:text-3xl lg:text-4xl" />
+        <img src="https://3.bp.blogspot.com/-fHks_DJHO74/VIPPUc-r-KI/AAAAAAACtY4/rK4h9l6dnCY/s1600/%E5%9C%96%E7%89%879.jpg" />
     </div>
 </template>

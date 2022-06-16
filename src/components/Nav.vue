@@ -52,7 +52,7 @@ const links = [
                 v-if="$route.path !== '/about'"
             >
                 <img
-                    src=""
+                    src="https://3.bp.blogspot.com/-fHks_DJHO74/VIPPUc-r-KI/AAAAAAACtY4/rK4h9l6dnCY/s1600/%E5%9C%96%E7%89%879.jpg"
                     class="w-full translate-y-12 scale-[180%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-14 md:hover:pt-7"
                 />
             </div>
